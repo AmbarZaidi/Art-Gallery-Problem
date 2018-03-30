@@ -8,7 +8,7 @@
 - 3-coloring / Vertex Guard Problem
 
 ## Screenshots
-![Generated Polygon](Screenshots/split_i_polygon.png)  
+![Generated Polygon](Screenshots/split_i_polygon.png)
 ![Trapezoidal Edges](Screenshots/split_ii_trapEdge.png)
 ![Diagonals for Trapeziums](Screenshots/split_iii_trapDiagonals.png)
 ![Monotone Partitions](Screenshots/split_iv_monoPartitions.png)
