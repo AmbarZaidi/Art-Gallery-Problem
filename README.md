@@ -1,10 +1,11 @@
 # Computational Geometry Project
 
 ## Components
-- Polygon Generation
+- Polygon Generation _using random points_
 - DCEL
-- Monotone Partitioning
+- Monotone Partitioning _using trapezoidalization_
 - Triangulation of monotone polygons
+- Dual Graph of Triangulation
 - 3-coloring / Vertex Guard Problem
 
 ## Screenshots
