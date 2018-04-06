@@ -1,5 +1,7 @@
 # Computational Geometry Project
 
+Coding Project 2: Vertex Guard Problem
+
 ## Components
 - Polygon Generation _using random points_
 - DCEL
@@ -16,3 +18,6 @@
 ![Triangulations](Screenshots/split_v_trianagulations.png)
 ![Vertex Guards](Screenshots/split_vi_guards.png)
 
+### Contributors
+- [Ambar Zaidi](https://github.com/AmbarZaidi/)  
+- [Tarun Kumar](https://github.com/tarunz/)
