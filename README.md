@@ -5,7 +5,7 @@
 - DCEL
 - Monotone Partitioning _using trapezoidalization_
 - Triangulation of monotone polygons
-- Dual Graph of Triangulation
+- Dual Graph of triangulation
 - 3-coloring / Vertex Guard Problem
 
 ## Screenshots
